@@ -1,0 +1,4 @@
+.list-group-item {
+    left: -105%;
+    transition: 2s cubic-bezier(0,1.71,1,-0.63);
+}
